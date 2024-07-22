@@ -1,0 +1,49 @@
+{
+    "interaction": {
+        "Busulfan": [
+            {
+                "id": "1",
+                "drugname": "Busulfan",
+                "otherdrugname": "โกฐเชียง (Angelica sinensis (Oliv.) Diels)",
+                "summary": "ไม่พบข้อมูลการเกิดอันตรกิริยาระหว่างยาและสมุนไพร",
+                "severity": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "documentation": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "clarification": "",
+                "reference": ""
+            },
+            {
+                "id": "2",
+                "drugname": "Busulfan",
+                "otherdrugname": "โกฐจุฬาลัมพา (Artemisia annua L.)",
+                "summary": "ไม่พบข้อมูลการเกิดอันตรกิริยาระหว่างยาและสมุนไพร",
+                "severity": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "documentation": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "clarification": "",
+                "reference": ""
+            }
+        ],
+        "Chlorambucilss": [
+            {
+                "id": "7",
+                "drugname": "Chlorambucilss",
+                "otherdrugname": "โกฐเชียง (Angelica sinensis (Oliv.) Diels)",
+                "summary": "ไม่พบข้อมูลการเกิดอันตรกิริยาระหว่างยาและสมุนไพร",
+                "severity": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "documentation": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "clarification": "",
+                "reference": ""
+            },
+            {
+                "id": "8",
+                "drugname": "Chlorambucilss",
+                "otherdrugname": "โกฐจุฬาลัมพา (Artemisia annua L.)",
+                "summary": "ไม่พบข้อมูลการเกิดอันตรกิริยาระหว่างยาและสมุนไพร",
+                "severity": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "documentation": "Unknown: ไม่พบข้อมูลการเกิดอันตรกิริยา",
+                "clarification": "",
+                "reference": ""
+            }
+        ]
+    }
+}
+
